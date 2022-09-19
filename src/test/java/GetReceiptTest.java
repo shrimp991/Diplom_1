@@ -11,7 +11,7 @@ import praktikum.Burger;
 import praktikum.Ingredient;
 
 @RunWith(MockitoJUnitRunner.class)
-public class getReceiptTest {
+public class GetReceiptTest {
   @Mock
   private Bun bun;
   @Mock
